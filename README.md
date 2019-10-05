@@ -114,3 +114,4 @@ CodePen Star                                               | Tags
 [Yusuke Nakaya](https://codepen.io/YusukeNakaya/)          | `Animation` `CSS`
 [Zach Saucier](http://codepen.io/Zeaklous/)                | `Animation` `CSS` `SVG`
 [Zed Dash](https://codepen.io/z-/)                         | `Animation` `CSS` `Javascript`
+[James Sinkler](DNE)                                       | `Animation` `CSS`
